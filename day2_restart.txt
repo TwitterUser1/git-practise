@@ -1,1 +1,2 @@
 Day 2 restart content
+Learning how to compare changes in Git
