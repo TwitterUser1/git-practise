@@ -2,4 +2,3 @@ Day 2 restart content
 Learning how to compare changes in Git
 This change belongs to feature1 branch
 This line is from master-branch
-Stage temp line
